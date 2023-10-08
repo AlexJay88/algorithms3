@@ -5,6 +5,8 @@ public class Arraylist {
     private int capacity;
     private String[] elements;
 
+
+
     public Arraylist() {
         capacity = 10;
         size = 0;
