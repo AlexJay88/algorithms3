@@ -2,7 +2,6 @@
 public class Main {
 
     public static void main(String[] args) {
-
         //Arraylist arraylist = new Arraylist();
 
         //for(int i = 0; i < 25; i++) {
